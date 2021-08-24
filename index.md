@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Wait...when did we sign up to be economists?
 
-You can use the [editor on GitHub](https://github.com/fairpayvis2021/fairpayvis2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fairpayvis2021/fairpayvis2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As crowdsourced platforms have become more popular with evaluating visualizations, so have the stakes of using these platforms. Since the pandemic, the stakes of having a minimum wage have been hotly debated: some finding it outrageous, others pointing out that it is barely a living wage for most. Should we as researchers care about wages? Is it our responsibility to pay people? The purpose of this panel is to begin discussing and drawing the ethical and practical boundaries of how much we should pay our study participants, what is a fair pay, and should ethics around payments be part of the review process. Our choice of panelists (Saiph Savage, Danielle Szafir, Alexander Lex, Steve Haroz, and Khairi Reda) represent researchers with significant experience in running crowdsourced studies as well as researchers who work directly with crowd workers to understand the needs of the crowdworkers. We expect the discussion to trigger a discourse in the visualization community around the practice of paying ethically and holding ourselves accountable.
